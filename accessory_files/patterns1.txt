@@ -1,4 +1,4 @@
-first\tline\tseparated\tby\ttabs
+first	line	separated	by	tabs
 first line separated by spaces
-second\tline\tseparated\tby\ttabs
+second	line	separated	by	tabs
 second line separated by spaces
