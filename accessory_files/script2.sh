@@ -1,4 +1,3 @@
-script2.sh
 #!/bin/bash
 
 #Usage: script2.sh <SRR accession>
