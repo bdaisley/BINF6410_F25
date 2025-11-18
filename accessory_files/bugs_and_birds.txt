@@ -1,0 +1,7 @@
+Gang-gang Cockatoo	Callocephalon fimbriatum	Pollinator	Eucalyptus Forest
+Honey Bee	Apis mellifera	Pollinator	Flowering Meadow
+Bombardier Beetle	Brachinus crepitans	Pest	Leaf Litter Zone
+Fluffy-backed Tit-Babbler	Macronus ptilosus	Pollinator	Tropical Thicket
+Lady Bug	Coccinella septempunctata	Pollinator	Garden Patch
+Aha Ha Wasp	Aha ha	Pest	Arid Scrubland
+Vampire Moth	Calyptra thalictri	Pest	Night Jungle
